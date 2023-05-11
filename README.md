@@ -1,1 +1,1 @@
-# csc209_genomic_analysis
+# csc209 Genomic Analysis Assignment
